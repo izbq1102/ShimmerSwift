@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.summary      = "A swift implementation of Facebooks shimmer effect."
   s.platform     = :ios, "9.3"
 
-  s.homepage     = "https://github.com/BeauNouvelle/ShimmerSwift"
+  s.homepage     = "https://github.com/izbq1102/ShimmerSwift"
 
   s.license      = { :type => "Unlicense", :file => "LICENSE" }
 
