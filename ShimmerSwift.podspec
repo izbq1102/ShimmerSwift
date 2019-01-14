@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.social_media_url   = "http://twitter.com/BeauNouvelle"
 
 
-  s.source       = { :git => "https://github.com/BeauNouvelle/ShimmerSwift.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/izbq1102/ShimmerSwift.git", :tag => "#{s.version}" }
 
   s.source_files  = "Classes", "Shimmer/*.{swift}"
   s.exclude_files = "Classes/Exclude"
